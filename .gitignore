@@ -1,0 +1,6 @@
+migrations
+__init__.py
+.env
+pycache
+todo.md
+venv
