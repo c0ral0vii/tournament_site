@@ -20,4 +20,5 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('apiv1.0/', include('tournament_api.urls'))
 ]
